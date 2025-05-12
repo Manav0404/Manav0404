@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left" dir="auto">Connect with me:</h3>
 
 <div align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/vaibhav-vhankade/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/manav-chatale-2a7313219/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
   
-  <a href="mailto:vaibhavvhankade27@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:manavchatale2020@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
