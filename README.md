@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/vaibhav-vhankade/" target="_blank"> Manav Chatale </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Java+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Developer,+Analyst+%3A)" /> </h3>
 
 - 👀 I’m interested in Software Development and Data Analyst 
 - 🌱 I’m continuously exploring Java and other Databases
