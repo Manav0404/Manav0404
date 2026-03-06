@@ -50,3 +50,9 @@ You can click the Preview link to take a look at your changes.
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%230075A8.svg?style=for-the-badge&logo=sql&logoColor=white"/>
   <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<h3 align="left" dir="auto">Cloud :</h3>
+<div align="left" dir="auto">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%230075A8.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
